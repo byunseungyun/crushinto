@@ -1,0 +1,9 @@
+@media all and (max-width:768px){
+	.h-200pxX800 { height: 200px !important; }
+}
+
+@media (min-width: 768px) {
+    .hero-content .hero-content-inner {
+        width: 100% !important
+    }
+}
