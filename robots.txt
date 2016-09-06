@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://brokenin.xyz/sitemap.xml
+Sitemap:http://crushinto.xyz/sitemap.xml
 
 User-agent:Yeti
-Disallow: 
+Disallow:
